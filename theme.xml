@@ -254,6 +254,7 @@ license:       creative commons CC-BY-NC-SA
    <view name="detailed">
       <image name="md_image">
          <origin>0.5 0.5</origin>
+         <color>ffffffcc</color>
          <zIndex>3</zIndex>
       </image>
    </view>
@@ -265,6 +266,7 @@ license:       creative commons CC-BY-NC-SA
          <effect>none</effect>
          <showSnapshotDelay>true</showSnapshotDelay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <color>ffffffcc</color>
          <zIndex>3</zIndex>
       </video>
    </view>
